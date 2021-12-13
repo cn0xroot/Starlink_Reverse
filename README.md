@@ -1,6 +1,32 @@
 # startlink_Reverse
 
 <pre>
+                                                                   *
+                                                    +
+                                          +    +
+                                   +     +
+                              +      +
+   + + + + +              +     +
+     +        +       +     +
+        +       + +      +
+           +   +      +
+             +      + +
+         +      +        +
+      +       +    +        +
+    +       +         +        +
+   + + + + +             + + + + +
+ ---------------------------------------------------------------------
+  According to all known laws of aviation, there is no way a wifi
+  router should be able to fly. Its wings are too small to get its
+  fat little body off the ground. The router, of course, flies
+  anyway because routers don't care what humans think is impossible.
+
+  2021.18.0.mr2404-prod
+ ---------------------------------------------------------------------
+</pre>
+
+
+<pre>
 ├── bin
 │   ├── D36_wifiSetting.sh
 │   ├── D61_wifiConnect_event.sh
