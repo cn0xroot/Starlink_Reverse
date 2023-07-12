@@ -1,4 +1,7 @@
-.
+Dish file list
+
+<pre>
+
 ├── cpio-root.7z
 ├── cpioroot_7z
 │   ├── dev
@@ -1811,5 +1814,4 @@
 │   └── revision_info
 │       └── version_info.txt
 └── runtime.tar.lz
-
-141 directories, 1671 files
+</pre>
